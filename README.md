@@ -1,13 +1,8 @@
-## Hi there 👋
-
-<!--
 # Hi, I'm Houda 👋
 
 ### Mobile Development & Information Systems
 
-IT graduate with a background in Mobile Application Development and Information Systems.
-
-I'm interested in software development, building useful applications, and continuously improving my technical skills.
+IT graduate with a background in mobile application development and information systems. Interested in software development and building useful applications.
 
 ### 🎓 Education
 - Specialized Technician Diploma in Mobile Development
@@ -16,15 +11,10 @@ I'm interested in software development, building useful applications, and contin
 ### 💻 Areas of Interest
 - Mobile Application Development
 - Software Development
-- Web Technologies
+- Web Development
 - Information Systems
 
 ### 📫 Contact
-Email: azzaoui.h2000@gmail.com
-
-LinkedIn: Coming soon 🚀
-
-Portfolio: Coming soon 🚀
-
-
--->
+- **Email:** azzaoui.h2000@gmail.com
+- **LinkedIn:** Coming soon 🚀
+- **Portfolio:** Coming soon 🚀
