@@ -1,16 +1,30 @@
 ## Hi there 👋
 
 <!--
-**h-azzaoui/h-azzaoui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Houda 👋
 
-Here are some ideas to get you started:
+### Mobile Development & Information Systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+IT graduate with a background in Mobile Application Development and Information Systems.
+
+I'm interested in software development, building useful applications, and continuously improving my technical skills.
+
+### 🎓 Education
+- Specialized Technician Diploma in Mobile Development
+- Bachelor's Degree in Information Systems
+
+### 💻 Areas of Interest
+- Mobile Application Development
+- Software Development
+- Web Technologies
+- Information Systems
+
+### 📫 Contact
+Email: azzaoui.h2000@gmail.com
+
+LinkedIn: Coming soon 🚀
+
+Portfolio: Coming soon 🚀
+
+
 -->
